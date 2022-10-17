@@ -1,25 +1,29 @@
-# The Problem: Lawncare is Harmful
+---
+title: Improve Our Landscape by Doing Less
+---
+
+## The Problem: Lawncare Is Harmful
+
 Lawncare is expensive, resource intensive, and, counterintuitively, harmful to our building's landscape and environment. This [article](https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html) lays out some of the harms in detail.
 
 > Nearly everything about how Americans “care” for their lawns is deadly. Pesticides prevent wildflower seeds from germinating and poison the insects that feed songbirds and other wildlife. Lawn mower blades, set too low, chop into bits the snakes and turtles and baby rabbits that can’t get away in time. Mulch, piled too deep, smothers ground-nesting bees, and often the very plants that mulch is supposed to protect, as well.
 Source: https://libguides.nybg.org/downsizinglawns
 
-### Lawncare uses lots of water:
+#### Lawncare uses lots of water:
 
 > A small, 1,000-square-foot lawn could require as much as 20,000 gallons of water per year to be green. It is estimated that more than 50% of residential and commercial irrigation water use goes to waste due to evaporation, wind, over watering and poor system design.
-### Lawn equipment pollution
+#### Lawn equipment pollution
 Source: https://www.edmunds.com/about/press/leaf-blowers-emissions-dirtier-than-high-performance-pick-up-trucks-says-edmunds-insidelinecom.html
 >  A 2011 study by Edmunds found that a two-stroke gasoline-powered leaf blower released more pollution than a 6,200-pound Ford F-150 SVT Raptor pickup 
 truck. Jason Kavanagh, the engineering editor at Edmunds at the time, noted that “hydrocarbon emissions from a half-hour of yard work with the two-stroke 
 leaf blower are about the same as a 3,900-mile drive from Texas to Alaska in a Raptor.” While car and truck emissions have been regulated and improved with 
 pollution-removing equipment, garden equipment engine emissions have been unregulated since the 1990s.
 
-## Zero emission lawncare
+## The Solution: Do Less
+### Stop Leafblowing and Leave the Leaves
+#### Zero emission lawncare
 
 There is currently [a proposed bill](https://www.nysenate.gov/legislation/bills/2021/S7462) in the New York State Senate that would require all lawncare equipment to be zero-emission by 2027. Similar laws have already passed in White Plains and Long Island.
-
-# The Solution: Do Less
-## Stop Leafblowing and Leave the Leaves
 #### Leaves on sidewalk need not be removed
 [City law states](https://portal.311.nyc.gov/article/?kanumber=KA-01803) that property owners must clear the sidewalk and 18" into the street of debris, which is genrally defined as:
 
