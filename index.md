@@ -36,8 +36,6 @@ According to [New York City Law School](https://www.citylandnyc.org/autumn-has-a
 
 > Under New York City’s Administrative Code, leaves are defined as “yard waste” or “organics waste” and includes: leaves, grass clippings, garden debris, vegetative residue (parts of a plant or vegetable), small or chipped branches, and similar material. *Clearing fall leaves in New York City is voluntary and residents do not receive summonses from the Department of Sanitation for fallen leaves on sidewalks.*
 
-
-
 #### Leaves are beneficial to grass and flower beds
 > ...research has shown that lawns actually benefit from a thin layer of leaves, and the rest can be piled up around ornamental trees, shrubs, and perennials to no ill effect.
 
@@ -45,10 +43,16 @@ According to [New York City Law School](https://www.citylandnyc.org/autumn-has-a
 
 ![Leaves](/images/leaves-bed.png)
 
+#### Removing leaves is pointless
+
+Below is a photo of a sidewalk two hours after a ~30 minute leafblowing session. Removing leaves from sidewalks is pointless; the wind blows new leaves onto the sidewalk in a short time.
+
+![sidewalk](/images/sidewalk.jpeg)
+
 
 ## Replace Grass with Low Maintenance Native Plants
 
-The New York Botanical Garden wrote this article about [replacing lawns](https://libguides.nybg.org/downsizinglawns) with plants native to our region.
+There are many low-maintenance grass replacement options.The New York Botanical Garden wrote this article about [replacing lawns](https://libguides.nybg.org/downsizinglawns) with plants native to our region. Below is a list of some of their suggestions.
 
 #### Replacement options
 ![Replacements](/images/replacements.png)
