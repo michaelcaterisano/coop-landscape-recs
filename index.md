@@ -1,7 +1,6 @@
 ---
 title: 255 Fieldston Terrace Lawncare
 ---
-
 # The Problem: Lawncare is Harmful
 Lawncare is expensive, resource intensive, and, counterintuitively, harmful to our building's landscape and environment. This [article](https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html) lays out some of the harms in detail.
 
