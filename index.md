@@ -4,19 +4,18 @@ title: Improve Our Landscape by Doing Less
 
 ## The Problem: Lawncare Is Harmful
 
-Lawncare is expensive, resource intensive, and, counterintuitively, harmful to our building's landscape and environment. This [article](https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html) lays out some of the harms in detail.
+#### Lawncare is expensive, resource intensive, and, counterintuitively, harmful to our building's landscape and environment. This [article](https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html) lays out some of the harms in detail:
 
 > Nearly everything about how Americans “care” for their lawns is deadly. Pesticides prevent wildflower seeds from germinating and poison the insects that feed songbirds and other wildlife. Lawn mower blades, set too low, chop into bits the snakes and turtles and baby rabbits that can’t get away in time. Mulch, piled too deep, smothers ground-nesting bees, and often the very plants that mulch is supposed to protect, as well.
 Source: https://libguides.nybg.org/downsizinglawns
 
-#### Lawncare uses lots of water:
+#### Grass requires a [huge amount of water](https://libguides.nybg.org/downsizinglawns)
 
 > A small, 1,000-square-foot lawn could require as much as 20,000 gallons of water per year to be green. It is estimated that more than 50% of residential and commercial irrigation water use goes to waste due to evaporation, wind, over watering and poor system design.
 
-#### Lawn equipment pollution
-Source: https://www.edmunds.com/about/press/leaf-blowers-emissions-dirtier-than-high-performance-pick-up-trucks-says-edmunds-insidelinecom.html
+#### Lawn equipment is 300 times more polluting than cars
 
->  A 2011 study by Edmunds found that a two-stroke gasoline-powered leaf blower released more pollution than a 6,200-pound Ford F-150 SVT Raptor pickup 
+A [2011 study](https://www.edmunds.com/about/press/leaf-blowers-emissions-dirtier-than-high-performance-pick-up-trucks-says-edmunds-insidelinecom.html) by Edmunds found that a two-stroke gasoline-powered leaf blower released more pollution than a 6,200-pound Ford F-150 SVT Raptor pickup 
 truck. Jason Kavanagh, the engineering editor at Edmunds at the time, noted that “hydrocarbon emissions from a half-hour of yard work with the two-stroke 
 leaf blower are about the same as a 3,900-mile drive from Texas to Alaska in a Raptor.” While car and truck emissions have been regulated and improved with 
 pollution-removing equipment, garden equipment engine emissions have been unregulated since the 1990s.
