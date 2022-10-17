@@ -1,6 +1,3 @@
----
-title: 255 Fieldston Terrace Lawncare
----
 # The Problem: Lawncare is Harmful
 Lawncare is expensive, resource intensive, and, counterintuitively, harmful to our building's landscape and environment. This [article](https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html) lays out some of the harms in detail.
 
@@ -51,13 +48,19 @@ Below is a photo of a sidewalk two hours after a ~30 minute leafblowing session.
 
 ## Replace Grass with Low Maintenance Native Plants
 
-There are many low-maintenance grass replacement options.The New York Botanical Garden wrote this article about [replacing lawns](https://libguides.nybg.org/downsizinglawns) with plants native to our region. Below is a list of some of their suggestions.
+There are many low-maintenance grass replacement options.The New York Botanical Garden wrote this article about [replacing lawns](https://libguides.nybg.org/downsizinglawns) with plants native to our region. Below is a list of some of their suggestions. This [New York Times article](https://www.nytimes.com/2022/06/15/realestate/yes-you-can-do-better-than-the-great-american-lawn.html) also has some great native plant suggestions.
 
 #### Replacement options
 ![Replacements](/images/replacements.png)
 
 Tickseed, a grass replacement option.
  ![Tickseed](/images/tickseed.png)
+
+Strawberry
+![strawberry](/images/strawberry.png)
+
+Sedge
+![sedge](/images/sedge.png)
 
  ## Resources
  - Cleaning leaves [is voluntary](https://www.citylandnyc.org/autumn-has-arrived-how-do-you-get-rid-of-that-pile-of-leaves/)
@@ -76,3 +79,6 @@ https://www.crotononhudson-ny.gov/home/news/seasonal-leaf-blower-ban-takes-effec
 
 - Leaves the leaves
 https://xerces.org/blog/leave-the-leaves
+
+- Do better than grass
+https://www.nytimes.com/2022/06/15/realestate/yes-you-can-do-better-than-the-great-american-lawn.html
