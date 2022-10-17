@@ -1,5 +1,5 @@
-Cleaning leaves is voluntary
-https://www.citylandnyc.org/autumn-has-arrived-how-do-you-get-rid-of-that-pile-of-leaves/
+- Cleaning leaves [is voluntary](https://www.citylandnyc.org/autumn-has-arrived-how-do-you-get-rid-of-that-pile-of-leaves/)
+
 
 Dirty sidewalk
 https://portal.311.nyc.gov/article/?kanumber=KA-01803
