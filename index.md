@@ -18,8 +18,8 @@ truck. Jason Kavanagh, the engineering editor at Edmunds at the time, noted that
 leaf blower are about the same as a 3,900-mile drive from Texas to Alaska in a Raptor.” While car and truck emissions have been regulated and improved with 
 pollution-removing equipment, garden equipment engine emissions have been unregulated since the 1990s.
 
-## The Solution: Do Less
-### Leaves on sidewalk need not be removed
+# The Solution - Do Less
+## Leaves on sidewalk need not be removed
 [City law states](https://portal.311.nyc.gov/article/?kanumber=KA-01803) that property owners must clear the sidewalk and 18" into the street of debris, which is genrally defined as:
 
 - loose trash
@@ -31,29 +31,29 @@ According to [New York City Law School](https://www.citylandnyc.org/autumn-has-a
 
 > Under New York City’s Administrative Code, leaves are defined as “yard waste” or “organics waste” and includes: leaves, grass clippings, garden debris, vegetative residue (parts of a plant or vegetable), small or chipped branches, and similar material. *Clearing fall leaves in New York City is voluntary and residents do not receive summonses from the Department of Sanitation for fallen leaves on sidewalks.*
 
-### Leaves are beneficial to grass and flower beds
+## Leaves are beneficial to grass and flower beds
 > ...research has shown that lawns actually benefit from a thin layer of leaves, and the rest can be piled up around ornamental trees, shrubs, and perennials to no ill effect.
 
 > ...you can create planting beds from fallen leaves as a source of soil-building organic matter.
 
 ![Leaves](/images/leaves-bed.png)
 
-### Removing leaves is pointless
+## Removing leaves is pointless
 
 Below is a photo of a sidewalk two hours after a ~30 minute leafblowing session. Removing leaves from sidewalks is pointless; the wind blows new leaves onto the sidewalk in a short time.
 
 ![sidewalk](/images/sidewalk.jpeg)
 
-### State Law Will Ban Gas-Powered Lawn Equipment
+## State Law Will Ban Gas-Powered Lawn Equipment
 
 There is currently [a proposed bill](https://www.nysenate.gov/legislation/bills/2021/S7462) in the New York State Senate that would require all lawncare equipment to be zero-emission by 2027. Similar laws have already passed in White Plains and Long Island.
 
 
-## Replace Grass with Low Maintenance Native Plants
+# Replace Grass with Low Maintenance Native Plants
 
 There are many low-maintenance grass replacement options.The New York Botanical Garden wrote this article about [replacing lawns](https://libguides.nybg.org/downsizinglawns) with plants native to our region. Below is a list of some of their suggestions. This [New York Times article](https://www.nytimes.com/2022/06/15/realestate/yes-you-can-do-better-than-the-great-american-lawn.html) also has some great native plant suggestions.
 
-### Replacement optins
+## Replacement optins
 ![Replacements](/images/replacements.png)
 
 Tickseed, a grass replacement option.
@@ -66,7 +66,7 @@ Sedge
 ![sedge](/images/sedge.png)
 
 
-## Resources
+# Resources
 - [Do better than grass](https://www.nytimes.com/2022/06/15/realestate/yes-you-can-do-better-than-the-great-american-lawn.html)
 
 - New York Botanical Garden [recommendations for lawn downsizing](https://libguides.nybg.org/downsizinglawns)
