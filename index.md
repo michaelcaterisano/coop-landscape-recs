@@ -21,9 +21,6 @@ leaf blower are about the same as a 3,900-mile drive from Texas to Alaska in a R
 pollution-removing equipment, garden equipment engine emissions have been unregulated since the 1990s.
 
 ## The Solution: Do Less
-### Zero emission lawncare
-
-There is currently [a proposed bill](https://www.nysenate.gov/legislation/bills/2021/S7462) in the New York State Senate that would require all lawncare equipment to be zero-emission by 2027. Similar laws have already passed in White Plains and Long Island.
 ### Leaves on sidewalk need not be removed
 [City law states](https://portal.311.nyc.gov/article/?kanumber=KA-01803) that property owners must clear the sidewalk and 18" into the street of debris, which is genrally defined as:
 
@@ -48,6 +45,10 @@ According to [New York City Law School](https://www.citylandnyc.org/autumn-has-a
 Below is a photo of a sidewalk two hours after a ~30 minute leafblowing session. Removing leaves from sidewalks is pointless; the wind blows new leaves onto the sidewalk in a short time.
 
 ![sidewalk](/images/sidewalk.jpeg)
+
+### State Law Will Ban Gas-Powered Lawn Equipment
+
+There is currently [a proposed bill](https://www.nysenate.gov/legislation/bills/2021/S7462) in the New York State Senate that would require all lawncare equipment to be zero-emission by 2027. Similar laws have already passed in White Plains and Long Island.
 
 
 ## Replace Grass with Low Maintenance Native Plants
