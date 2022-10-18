@@ -70,10 +70,15 @@ Sedge
 ![sedge](/images/sedge.png)
 
 # Action Items
-- Stop the practice of removing leaves from our sidewalks and flower beds
-- Work with our landscaper to better understand our building's needs and develop healthier maintenance practices. This may include:
-  - Replace our grass with low-maintenance alternative that needs little to no mowing
-  - Eliminate the need for gas-powered lawn equipment by reconsidering the services we need
+- Replace our grass with low-maintenance alternative that needs little or no mowing. This will help reduce the need for gas-powered lawn equipment.
+- Do not clear sidewalks with gas-powered leaf blowers. Use electric equipment, or better, allow the wind to distribute leaves and grass naturally. This lawn refuse is natural fertilizer, and there is no need to remove it. This applies to our building staff and our landscape contractors.
+- Work with our landscaper to better understand our building's needs and develop healthier maintenance practices, with the goal of eliminating the use of gas-powered lawn equipment, which is likely to be banned by the state in the near future. Specific items may include:
+  - Use hand clippers instead of electric trimmers
+  - Stop mowing ground cover once grass replacement is established
+  - Use a broom to clear sidewalks, or do not clear them at all. It will not be necessary if we are no longer mowing.
+
+
+
 
 
 # Resources
