@@ -32,7 +32,7 @@ Not only is the practice of using leaf blowers harmful and unnecessary, it's als
 - broken glass
 - snow and ice
 
-According to [New York City Law School](https://www.citylandnyc.org/autumn-has-arrived-how-do-you-get-rid-of-that-pile-of-leaves/):
+The definition of debris does not include leaves, suggesting that removing them is voluntary. According to [New York City Law School](https://www.citylandnyc.org/autumn-has-arrived-how-do-you-get-rid-of-that-pile-of-leaves/):
 
 > Under New York City’s Administrative Code, leaves are defined as “yard waste” or “organics waste” and includes: leaves, grass clippings, garden debris, vegetative residue (parts of a plant or vegetable), small or chipped branches, and similar material. *Clearing fall leaves in New York City is voluntary and residents do not receive summonses from the Department of Sanitation for fallen leaves on sidewalks.*
 
