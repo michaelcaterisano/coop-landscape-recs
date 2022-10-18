@@ -1,7 +1,3 @@
----
-title: The Problem - Lawncare Is Harmful
----
-
 ### Lawncare is expensive, resource intensive, and, counterintuitively, harmful to our building's landscape and environment. This [article](https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html) lays out some of the harms in detail:
 
 > Nearly everything about how Americans “care” for their lawns is deadly. Pesticides prevent wildflower seeds from germinating and poison the insects that feed songbirds and other wildlife. Lawn mower blades, set too low, chop into bits the snakes and turtles and baby rabbits that can’t get away in time. Mulch, piled too deep, smothers ground-nesting bees, and often the very plants that mulch is supposed to protect, as well.
