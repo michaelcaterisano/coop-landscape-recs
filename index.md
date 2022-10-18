@@ -1,5 +1,6 @@
 ---
 title: Improve Our Landscape by Doing Less
+description: ""
 ---
 
 ## The Problem: Lawncare Is Harmful
