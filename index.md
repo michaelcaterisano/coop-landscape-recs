@@ -18,6 +18,13 @@ truck. Jason Kavanagh, the engineering editor at Edmunds at the time, noted that
 leaf blower are about the same as a 3,900-mile drive from Texas to Alaska in a Raptor.” While car and truck emissions have been regulated and improved with 
 pollution-removing equipment, garden equipment engine emissions have been unregulated since the 1990s.
 
+### Noise Pollution
+
+Below is a video of our landscaper blowing leafs off of our sidewalk. Not only is this practice harmful and unnecessary, it's also loud. The noise from this leafblower exceeded 80 decibels in my apartment. 
+According to the [NYC Noise Code](https://www1.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf), music from commercial venues must not exceed 42 decibels as measured within a nearby residence. Garbage trucks must not exceed 80 decibels when measured 35 feet from a residence.
+
+![leafblower](/images/leafblower.mp4)
+
 # The Solution - Do Less
 ## Leaves on sidewalk need not be removed
 [City law states](https://portal.311.nyc.gov/article/?kanumber=KA-01803) that property owners must clear the sidewalk and 18" into the street of debris, which is genrally defined as:
@@ -63,6 +70,12 @@ Strawberry
 
 Sedge
 ![sedge](/images/sedge.png)
+
+# Action Items
+- Stop the practice of removing leaves from our sidewalks and flower beds
+- Work with our landscaper to better understand our building's needs and develop healthier maintenance practices. This may include:
+  - Replace our grass with low-maintenance alternative that needs little to no mowing
+  - Eliminate the need for gas-powered lawn equipment by reconsidering the services we need
 
 
 # Resources
