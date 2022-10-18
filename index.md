@@ -2,16 +2,16 @@
 title: The Problem - Lawncare Is Harmful
 ---
 
-## How Lawncare Causes harm
+## How Lawncare Causes Harm
 
 Lawncare is expensive, resource intensive, and, counterintuitively, harmful to our building's landscape and environment. This [article](https://www.nytimes.com/2021/10/25/opinion/leaf-blowers-california-emissions.html) lays out some of the harms in detail:
 
 > Nearly everything about how Americans “care” for their lawns is deadly. Pesticides prevent wildflower seeds from germinating and poison the insects that feed songbirds and other wildlife. Lawn mower blades, set too low, chop into bits the snakes and turtles and baby rabbits that can’t get away in time. Mulch, piled too deep, smothers ground-nesting bees, and often the very plants that mulch is supposed to protect, as well.
 Source: https://libguides.nybg.org/downsizinglawns
 
-## Water [Usage](https://libguides.nybg.org/downsizinglawns)
+## Water Usage
 
-> A small, 1,000-square-foot lawn could require as much as 20,000 gallons of water per year to be green. It is estimated that more than 50% of residential and commercial irrigation water use goes to waste due to evaporation, wind, over watering and poor system design.
+> A small, 1,000-square-foot lawn could require as much as [20,000 gallons](https://libguides.nybg.org/downsizinglawns) of water per year to be green. It is estimated that more than 50% of residential and commercial irrigation water use goes to waste due to evaporation, wind, over watering and poor system design.
 
 ## Air Pollution
 
@@ -26,37 +26,8 @@ Not only is the practice of using leaf blowers harmful and unnecessary, it's als
 
 
 # The Solution - Do Less
-## Leaves on sidewalk need not be removed
-[City law states](https://portal.311.nyc.gov/article/?kanumber=KA-01803) that property owners must clear the sidewalk and 18" into the street of debris, which is genrally defined as:
 
-- loose trash
-- stray garbage bags
-- broken glass
-- snow and ice
-
-The definition of debris does not include leaves, suggesting that removing them is voluntary. According to [New York City Law School](https://www.citylandnyc.org/autumn-has-arrived-how-do-you-get-rid-of-that-pile-of-leaves/):
-
-> Under New York City’s Administrative Code, leaves are defined as “yard waste” or “organics waste” and includes: leaves, grass clippings, garden debris, vegetative residue (parts of a plant or vegetable), small or chipped branches, and similar material. *Clearing fall leaves in New York City is voluntary and residents do not receive summonses from the Department of Sanitation for fallen leaves on sidewalks.*
-
-## Leaves are beneficial to grass and flower beds
-> ...research has shown that lawns actually benefit from a thin layer of leaves, and the rest can be piled up around ornamental trees, shrubs, and perennials to no ill effect.
-
-> ...you can create planting beds from fallen leaves as a source of soil-building organic matter.
-
-![Leaves](/images/leaves-bed.png)
-
-## Removing leaves is pointless
-
-Below is a photo of a sidewalk two hours after a ~30 minute leafblowing session. Removing leaves from sidewalks is pointless; the wind blows new leaves onto the sidewalk in a short time.
-
-![sidewalk](/images/sidewalk.jpeg)
-
-## State Law Will Ban Gas-Powered Lawn Equipment
-
-There is currently [a proposed bill](https://www.nysenate.gov/legislation/bills/2021/S7462) in the New York State Senate that would require all lawncare equipment to be zero-emission by 2027. Similar laws have already passed in White Plains and Long Island.
-
-
-# How To Replace Grass
+## Replace Grass With Low-Maintenance Ground Cover
 
 There are many low-maintenance grass replacement options.The New York Botanical Garden wrote this article about [replacing lawns](https://libguides.nybg.org/downsizinglawns) with plants native to our region. Below is a list of some of their suggestions. This [New York Times article](https://www.nytimes.com/2022/06/15/realestate/yes-you-can-do-better-than-the-great-american-lawn.html) also has some great native plant suggestions.
 
@@ -70,6 +41,31 @@ Strawberry
 
 Sedge
 ![sedge](/images/sedge.png)
+## Stop Removing Leaves
+
+[City law states](https://portal.311.nyc.gov/article/?kanumber=KA-01803) that property owners must clear the sidewalk and 18" into the street of debris, which is genrally defined as:
+
+- loose trash
+- stray garbage bags
+- broken glass
+- snow and ice
+
+The definition of debris does not include leaves, suggesting that removing them is voluntary. According to [New York City Law School](https://www.citylandnyc.org/autumn-has-arrived-how-do-you-get-rid-of-that-pile-of-leaves/):
+
+> Under New York City’s Administrative Code, leaves are defined as “yard waste” or “organics waste” and includes: leaves, grass clippings, garden debris, vegetative residue (parts of a plant or vegetable), small or chipped branches, and similar material. *Clearing fall leaves in New York City is voluntary and residents do not receive summonses from the Department of Sanitation for fallen leaves on sidewalks.*
+
+Leaves are also beneficial to grass and flower beds. Removing them robs our building landscapes soil of nitrogen, causing us to have to pay for more fertilizer.
+> ...research has shown that lawns actually benefit from a thin layer of leaves, and the rest can be piled up around ornamental trees, shrubs, and perennials to no ill effect.
+
+> ...you can create planting beds from fallen leaves as a source of soil-building organic matter.
+
+![Leaves](/images/leaves-bed.png)
+
+Removing leaves is also pointless, because trees don't stop dropping leaves after a sidewalk has been cleared. Below is a photo of a sidewalk two hours after a ~30 minute leafblowing session. Removing leaves from sidewalks is pointless; the wind blows new leaves onto the sidewalk in a short time.
+
+![sidewalk](/images/sidewalk.jpeg)
+
+It would also benefit us to stop using gas-powered lawn equipment now, because New York State Law may soon prohibit its use entirely. There is currently [a proposed bill](https://www.nysenate.gov/legislation/bills/2021/S7462) in the New York State Senate that would require all lawncare equipment to be zero-emission by 2027. Similar laws have already passed in White Plains and Long Island.
 
 # Action Items
 - Replace our grass with low-maintenance alternative that needs little or no mowing. This will help reduce the need for gas-powered lawn equipment.
