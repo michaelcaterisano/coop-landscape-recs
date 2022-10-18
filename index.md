@@ -67,18 +67,12 @@ Sedge
 
 # Resources
 - [Do better than grass](https://www.nytimes.com/2022/06/15/realestate/yes-you-can-do-better-than-the-great-american-lawn.html)
-
 - New York Botanical Garden [recommendations for lawn downsizing](https://libguides.nybg.org/downsizinglawns)
- 
 - [Leaves the leaves](https://xerces.org/blog/leave-the-leaves)
-
 - Cleaning leaves [is voluntary](https://www.citylandnyc.org/autumn-has-arrived-how-do-you-get-rid-of-that-pile-of-leaves/)
-
 - Leaf blowing [does no good](https://www.nytimes.com/2018/12/15/realestate/why-do-buildings-blow-leaves-into-the-street.html)
 - Lawncare equipment will be [zero emissions by 2027](https://www.nysenate.gov/legislation/bills/2021/S7462)
-
 - Leaf Blowers [may be banned](https://www.nysenate.gov/legislation/bills/2021/S1113)
-
 - Croton Seasonal [Leaf Blower Ban](https://www.crotononhudson-ny.gov/home/news/seasonal-leaf-blower-ban-takes-effect-june-1)
 
 
