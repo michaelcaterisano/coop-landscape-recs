@@ -20,10 +20,8 @@ pollution-removing equipment, garden equipment engine emissions have been unregu
 
 ### Noise Pollution
 
-Below is a video of our landscaper blowing leafs off of our sidewalk. Not only is this practice harmful and unnecessary, it's also loud. The noise from this leafblower exceeded 80 decibels in my apartment. 
-According to the [NYC Noise Code](https://www1.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf), music from commercial venues must not exceed 42 decibels as measured within a nearby residence. Garbage trucks must not exceed 80 decibels when measured 35 feet from a residence.
+Not only is the practice of using leaf blowers harmful and unnecessary, it's also loud. The noise from our landscaper's exceeds 80 decibels as measured from my apartment. According to the [NYC Noise Code](https://www1.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf), "music from commercial venues must not exceed 42 decibels as measured within a nearby residence". "Garbage trucks must not exceed 80 decibels when measured 35 feet from a residence".
 
-![leafblower](/images/leafblower.mp4)
 
 # The Solution - Do Less
 ## Leaves on sidewalk need not be removed
