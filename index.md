@@ -66,7 +66,8 @@ Strawberry
 Sedge
 ![sedge](/images/sedge.png)
 
- ## Resources
+
+## Resources
  - Cleaning leaves [is voluntary](https://www.citylandnyc.org/autumn-has-arrived-how-do-you-get-rid-of-that-pile-of-leaves/)
 
 - Leaf blowing does no good
