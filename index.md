@@ -55,7 +55,6 @@ There is currently [a proposed bill](https://www.nysenate.gov/legislation/bills/
 
 There are many low-maintenance grass replacement options.The New York Botanical Garden wrote this article about [replacing lawns](https://libguides.nybg.org/downsizinglawns) with plants native to our region. Below is a list of some of their suggestions. This [New York Times article](https://www.nytimes.com/2022/06/15/realestate/yes-you-can-do-better-than-the-great-american-lawn.html) also has some great native plant suggestions.
 
-### Replacement options
 ![Replacements](/images/replacements.png)
 
 Tickseed, a grass replacement option.
