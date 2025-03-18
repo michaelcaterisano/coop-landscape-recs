@@ -61,7 +61,7 @@ Leaves are also beneficial to grass and flower beds. Removing them robs our buil
 
 ![Leaves](/images/leaves-bed.png)
 
-Removing leaves is also pointless, because trees don't stop dropping leaves after a sidewalk has been cleared. Below is a photo of a sidewalk two hours after a ~30 minute leafblowing session. Removing leaves from sidewalks is pointless; the wind blows new leaves onto the sidewalk in a short time.
+Removing leaves is also pointless, because trees don't stop dropping leaves after a sidewalk has been cleared. Below is a photo of a sidewalk two hours after a 30-plus minute leafblowing session.
 
 ![sidewalk](/images/sidewalk.jpeg)
 
