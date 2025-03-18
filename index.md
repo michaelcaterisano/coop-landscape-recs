@@ -18,7 +18,7 @@ pollution-removing equipment, garden equipment engine emissions have been unregu
 
 ## Water Usage
 
-> A small, 1,000-square-foot lawn could require as much as [20,000 gallons](https://libguides.nybg.org/downsizinglawns) of water per year to be green. It is estimated that more than 50% of residential and commercial irrigation water use goes to waste due to evaporation, wind, over watering and poor system design.
+A small, 1,000-square-foot lawn could require as much as [20,000 gallons](https://libguides.nybg.org/downsizinglawns) of water per year to be green. It is estimated that more than 50% of residential and commercial irrigation water use goes to waste due to evaporation, wind, over watering and poor system design.
 
 ## Noise Pollution
 
