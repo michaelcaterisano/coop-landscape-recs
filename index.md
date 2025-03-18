@@ -9,10 +9,6 @@ Lawncare is expensive, resource intensive, and, counterintuitively, harmful to o
 > Nearly everything about how Americans “care” for their lawns is deadly. Pesticides prevent wildflower seeds from germinating and poison the insects that feed songbirds and other wildlife. Lawn mower blades, set too low, chop into bits the snakes and turtles and baby rabbits that can’t get away in time. Mulch, piled too deep, smothers ground-nesting bees, and often the very plants that mulch is supposed to protect, as well.
 Source: https://libguides.nybg.org/downsizinglawns
 
-## Water Usage
-
-> A small, 1,000-square-foot lawn could require as much as [20,000 gallons](https://libguides.nybg.org/downsizinglawns) of water per year to be green. It is estimated that more than 50% of residential and commercial irrigation water use goes to waste due to evaporation, wind, over watering and poor system design.
-
 ## Air Pollution
 
 A [2011 study](https://www.edmunds.com/about/press/leaf-blowers-emissions-dirtier-than-high-performance-pick-up-trucks-says-edmunds-insidelinecom.html) by Edmunds found that a two-stroke gasoline-powered leaf blower released more pollution than a 6,200-pound Ford F-150 SVT Raptor pickup 
@@ -20,10 +16,13 @@ truck. Jason Kavanagh, the engineering editor at Edmunds at the time, noted that
 leaf blower are about the same as a 3,900-mile drive from Texas to Alaska in a Raptor.” While car and truck emissions have been regulated and improved with 
 pollution-removing equipment, garden equipment engine emissions have been unregulated since the 1990s.
 
+## Water Usage
+
+> A small, 1,000-square-foot lawn could require as much as [20,000 gallons](https://libguides.nybg.org/downsizinglawns) of water per year to be green. It is estimated that more than 50% of residential and commercial irrigation water use goes to waste due to evaporation, wind, over watering and poor system design.
+
 ## Noise Pollution
 
 Not only is the practice of using leaf blowers harmful and unnecessary, it's also loud. The noise from our landscaper's exceeds 80 decibels as measured from my apartment. According to the [NYC Noise Code](https://www1.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf), "music from commercial venues must not exceed 42 decibels as measured within a nearby residence". "Garbage trucks must not exceed 80 decibels when measured 35 feet from a residence".
-
 
 # The Solution - Do Less
 
