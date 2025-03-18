@@ -67,12 +67,9 @@ Removing leaves is also pointless, because trees don't stop dropping leaves afte
 It would also benefit us to stop using gas-powered lawn equipment now, because New York State Law may soon prohibit its use entirely. There is currently [a proposed bill](https://www.nysenate.gov/legislation/bills/2021/S7462) in the New York State Senate that would require all lawncare equipment to be zero-emission by 2027. Similar laws have already passed in White Plains and Long Island.
 
 # Action Items
+- Call [Kim Eierman](https://www.ecobeneficial.com/about/#). She offers [virtual consultations](https://www.ecobeneficial.com/shop/60-minute-call-with-kim-eierman/) for $165 for 60 minutes.
 - Replace our grass with low-maintenance alternative that needs little or no mowing. This will help reduce the need for gas-powered lawn equipment.
 - Do not clear sidewalks with gas-powered leaf blowers. Use electric equipment, or better, allow the wind to distribute leaves and grass naturally. This lawn refuse is natural fertilizer, and there is no need to remove it. This applies to our building staff and our landscape contractors.
-- Work with our landscaper to better understand our building's needs and develop healthier maintenance practices, with the goal of eliminating the use of gas-powered lawn equipment, which is likely to be banned by the state in the near future. Specific items may include:
-  - Use hand clippers instead of electric trimmers
-  - Stop mowing ground cover once grass replacement is established
-  - Use a broom to clear sidewalks, or do not clear them at all. It will not be necessary if we are no longer mowing.
 
 
 
